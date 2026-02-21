@@ -135,6 +135,25 @@ Rework or discontinue campaigns in negative lift quadrant.
 
 Implement segmented targeting instead of broad campaigns.
 
+## 📊 Interactive Tableau Dashboard
+
+Explore the full interactive dashboard here:
+
+🔗 Live Dashboard (Tableau Public):  
+https://public.tableau.com/views/customerjourneyanalysis/incrementalliftanalysis
+
+
+### What the Dashboard Includes
+
+- Incremental Revenue & Lift Analysis
+- Treatment vs Control Comparison
+- Campaign Efficiency Matrix
+- RFM Revenue Heatmap (Recency vs Frequency)
+- Revenue Concentration by Segment
+- Revenue per Customer by Segment
+
+> The dashboard evaluates 30 campaigns, highlighting that 18 generated positive incremental lift with an average lift of 9.2%.
+
 🛠 Tools Used
 
 SQL (CTEs, Aggregations, Window Functions)
